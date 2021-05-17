@@ -8,6 +8,7 @@ body {
   font-family: Helvetica, Arial, sans-serif;
 }
 
+/* apply styles to <header> */
 header {
   padding: 20px 35px;
   background-color: #39a6b2;
@@ -68,7 +69,7 @@ section {
   padding: 60px;
 }
 
-/*HERO STYLE BEGINS*/
+/*Hero Style Start*/
 .hero {
   background-image: url("../images/hero-bg.jpg");
   height: 600px;
@@ -118,4 +119,4 @@ section {
   padding: 10px 20px;
   font-size: 16px;
 }
-/*HERO STYLE ENDS*/
+/*Hero Style End*/
