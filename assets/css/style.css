@@ -158,12 +158,15 @@ section {
 .steps {
   text-align: center;
   background: #fce138;
+}
+
+.steps div {
   margin-bottom: 80px;
 }
 
 .steps img {
   width: 15%;
-  margin-bottom: 10px 0;
+  margin: 10px 0;
 }
 
 .steps h3 {
