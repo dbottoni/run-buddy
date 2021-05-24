@@ -1,14 +1,18 @@
-# Run Buddy
+# Run Buddy Inc.
 
 ## Purpose
+
 A website that offers fitness training services
 
 ## Built with
-* HTML
-* CSS
+
+- HTML
+- CSS
 
 ## Website
+
 https://dbottoni.github.io/run-buddy/
 
 # Contribution
+
 Made with ❤️ by Dana Bottoni
