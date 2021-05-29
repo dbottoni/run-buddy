@@ -221,13 +221,10 @@ section {
   width: 80%;
 }
 
-.step:not(:last-child) {
-  border-bottom: #39a6b2;
-}
 
-/*.step:last-child {
+.step:last-child {
   border-bottom: none;
-}*/
+}
 
 .steps {
   background: #fce138;
