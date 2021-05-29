@@ -211,14 +211,18 @@ section {
 /*What You Do Start*/
 
 .step {
-  margin: 50px auto;
-  padding-bottom: 50px;
-  width: 80%;
+  align-items: center;
   border-bottom: 1px solid #39a6b2;
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
   justify-content: space-between;
+  margin: 50px auto;
+  padding-bottom: 50px;
+  width: 80%;
+}
+
+.step:last-child {
+  border-bottom: none;
 }
 
 .steps {
